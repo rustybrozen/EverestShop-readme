@@ -6,12 +6,14 @@
 [![Built with Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Built with Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Built with AI](https://img.shields.io/badge/Built%20with-AI%20Assistance-blueviolet?style=for-the-badge&logo=OpenAI&logoColor=white)](https://openai.com/)
+[![Built with VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Tested with Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ---
 
 EverestShop is a full-featured e-commerce smartphone web application, developed as our first major full-stack project. It showcases modern web development technologies and practices with a focus on delivering a seamless desktop / mobile shopping experience.
 
-Website: Https://rested.sytes.net
+Website: https://rested.sytes.net
 
 ## 👨‍💻 Development Team
 
@@ -24,7 +26,7 @@ Website: Https://rested.sytes.net
 | **Lê Trọng Khôi** | Member | Frontend & UI/UX |
 | **Nguyễn Thị Ngọc Nga** | Member | Documentation, Testing & System Analysis |
 
-*This project was self-taught and developed without formal instruction from faculty.*
+> **Important Note:** This project was completely self-taught and developed without formal instruction from faculty. All technologies used in this project were learned independently by our team, as these specific technologies and frameworks are not part of our official college curriculum. We took the initiative to learn modern web development technologies on our own to create a professional-grade application for our graduation project. We recognize that our implementation is at a junior/basic level, and we are committed to continuous learning and improvement of our skills every day.
 
 ## ✨ Features
 
@@ -50,15 +52,13 @@ Website: Https://rested.sytes.net
   - [Docker](https://www.docker.com/) – Containerization platform
   - [Docker Compose](https://docs.docker.com/compose/) – Define and run multi-container apps
   - [Git](https://git-scm.com/) – Version control system for source code management
+  - [Visual Studio Code](https://code.visualstudio.com/) – Code editor
+  - [Postman](https://www.postman.com/) – API testing tool
+  - [VPS](https://en.wikipedia.org/wiki/Virtual_private_server) – Virtual Private Server for hosting
 
 - **Integrating AI Assistant to Optimize WebApp Development Performance**
 
 
-## 📋 Prerequisites
-
-- [Docker](https://www.docker.com/get-started) and [Docker Compose](https://docs.docker.com/compose/install/)
-- Basic understanding of Node.js and MongoDB (for development)
-- Git (for cloning the repository)
 
 ## 🚀 Setup and Installation
 
@@ -104,7 +104,7 @@ Follow these steps to get your development environment set up:
 
 EverestShop là ứng dụng web thương mại điện tử cho điện thoại thông minh, được phát triển như dự án full-stack đầu tiên của chúng tôi. Dự án này thể hiện các công nghệ và phương pháp phát triển web hiện đại, tập trung vào việc mang lại trải nghiệm mua sắm trên máy tính / di động liền mạch.
 
-Website: Https://rested.sytes.net
+Website: https://rested.sytes.net
 
 ## 👨‍💻 Đội Ngũ Phát Triển
 
@@ -117,7 +117,7 @@ Website: Https://rested.sytes.net
 | **Lê Trọng Khôi** | Thành viên | Frontend & Giao diện người dùng |
 | **Nguyễn Thị Ngọc Nga** | Thành viên | Tài liệu, Kiểm thử & Phân tích hệ thống |
 
-*Dự án này được tự học và phát triển mà không có sự hướng dẫn chính thức từ giáo viên.*
+> **Lưu ý quan trọng:** Dự án này được hoàn toàn tự học và phát triển mà không có sự hướng dẫn chính thức từ giáo viên. Tất cả công nghệ được sử dụng trong dự án này đều được nhóm chúng tôi tự học độc lập, vì các công nghệ và framework cụ thể này không nằm trong chương trình chính thức của trường. Chúng tôi đã chủ động học các công nghệ phát triển web hiện đại để tạo ra một ứng dụng chuyên nghiệp cho đồ án tốt nghiệp. Chúng tôi nhận thức rằng việc triển khai của chúng tôi đang ở mức độ junior/cơ bản, và chúng tôi cam kết sẽ học hỏi liên tục và cải thiện kỹ năng của mình mỗi ngày.
 
 ## ✨ Tính Năng
 
@@ -143,15 +143,12 @@ Website: Https://rested.sytes.net
   - [Docker](https://www.docker.com/) – Ảo hóa container
   - [Docker Compose](https://docs.docker.com/compose/) – Quản lý ứng dụng đa container
   - [Git](https://git-scm.com/) – Hệ thống quản lý phiên bản mã nguồn
+  - [Visual Studio Code](https://code.visualstudio.com/) – Trình soạn thảo mã
+  - [Postman](https://www.postman.com/) – Công cụ kiểm thử API
+  - [VPS](https://en.wikipedia.org/wiki/Virtual_private_server) – Máy chủ ảo để lưu trữ
 
 - **Kết Hợp Trợ Lý AI Để Tối Ưu Hiệu Suất Xây Dựng WebApp**
 
-
-## 📋 Yêu Cầu Tiên Quyết
-
-- [Docker](https://www.docker.com/get-started) và [Docker Compose](https://docs.docker.com/compose/install/)
-- Hiểu biết cơ bản về Node.js và MongoDB (cho phát triển)
-- Git (để sao chép kho lưu trữ)
 
 ## 🚀 Thiết Lập và Cài Đặt
 
@@ -196,13 +193,7 @@ Làm theo các bước sau để thiết lập môi trường phát triển củ
 ![image](https://github.com/user-attachments/assets/2d705784-0006-4129-b3b7-37ce5fbe2608)
 
 
-
-
 ![image](https://github.com/user-attachments/assets/890b6377-83bb-409b-9e65-e8ed76d9392a)
 
 
 ![image](https://github.com/user-attachments/assets/648686cd-2e11-4f0c-b4f9-2954acbd285d)
-
-
-
-
