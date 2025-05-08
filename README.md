@@ -11,6 +11,8 @@
 
 EverestShop is a full-featured e-commerce smartphone web application, developed as our first major full-stack project. It showcases modern web development technologies and practices with a focus on delivering a seamless desktop / mobile shopping experience.
 
+Website: Https://rested.sytes.net
+
 ## 👨‍💻 Development Team
 
 **Class CD22CNTT1 (2022–2025, Major: Information Technology)**  
@@ -101,6 +103,8 @@ Follow these steps to get your development environment set up:
 # 📱 EverestShop (Tiếng Việt)
 
 EverestShop là ứng dụng web thương mại điện tử cho điện thoại thông minh, được phát triển như dự án full-stack đầu tiên của chúng tôi. Dự án này thể hiện các công nghệ và phương pháp phát triển web hiện đại, tập trung vào việc mang lại trải nghiệm mua sắm trên máy tính / di động liền mạch.
+
+Website: Https://rested.sytes.net
 
 ## 👨‍💻 Đội Ngũ Phát Triển
 
