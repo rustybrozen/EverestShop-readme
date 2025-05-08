@@ -41,49 +41,24 @@ Website: https://rested.sytes.net
 ## 🛠️ Công Nghệ Sử Dụng
 
 - **Backend:**
-  - [Node.js](https://nodejs.org/) – Môi trường chạy JavaScript
-  - [Express.js](https://expressjs.com/) – Framework ứng dụng web
-  - [MongoDB](https://www.mongodb.com/) – Cơ sở dữ liệu NoSQL
+  - [Node.js](https://nodejs.org/) 
+  - [Express.js](https://expressjs.com/) 
+  - [MongoDB](https://www.mongodb.com/) 
   
 - **Frontend:**
-  - [EJS](https://ejs.co/) – Mẫu JavaScript nhúng
-  - [Bootstrap](https://getbootstrap.com/) – Framework CSS đáp ứng
+  - [EJS](https://ejs.co/)
+  - [Bootstrap](https://getbootstrap.com/) 
   
 - **Phát triển & Triển khai:**
-  - [Docker](https://www.docker.com/) – Ảo hóa container
-  - [Docker Compose](https://docs.docker.com/compose/) – Quản lý ứng dụng đa container
-  - [Git](https://git-scm.com/) – Hệ thống quản lý phiên bản mã nguồn
-  - [Visual Studio Code](https://code.visualstudio.com/) – Trình soạn thảo mã
-  - [Postman](https://www.postman.com/) – Công cụ kiểm thử API
-  - [VPS](https://en.wikipedia.org/wiki/Virtual_private_server) – Máy chủ ảo để lưu trữ
+  - [Docker](https://www.docker.com/) 
+  - [Docker Compose](https://docs.docker.com/compose/) 
+  - [Git](https://git-scm.com/) 
+  - [Visual Studio Code](https://code.visualstudio.com/) 
+  - [Postman](https://www.postman.com/) 
+  - [VPS](https://en.wikipedia.org/wiki/Virtual_private_server) 
 
 - **Kết Hợp Trợ Lý AI Để Tối Ưu Hiệu Suất Xây Dựng WebApp**
 
-
-## 🚀 Thiết Lập và Cài Đặt
-
-Làm theo các bước sau để thiết lập môi trường phát triển của bạn:
-
-1. **Sao chép kho lưu trữ và điều hướng đến thư mục dự án:**
-   ```bash
-   git clone https://github.com/rustybrozen/EverestShop && cd EverestShop
-   ```
-
-2. **Tạo tệp môi trường:**
-   ```bash
-   mv .env_default .env
-   ```
-
-3. **Xây dựng và khởi động các container Docker:**
-   ```bash
-   sudo docker compose up -d
-   ```
-
-4. **Tùy chọn: Xây dựng lại từ đầu nếu cần:**
-   ```bash
-   sudo docker compose down -v
-   sudo docker compose up --build -d
-   ```
 
 ## 🔧 Sử Dụng
 
