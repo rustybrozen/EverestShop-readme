@@ -20,11 +20,11 @@ Website: https://rested.sytes.net
 **Class CD22CNTT1 (2022–2025, Major: Information Technology)**  
 **Institution: Ba Ria-Vung Tau College of Technology (BCTECH)**
 
-| Name | Role | Responsibilities |
-|------|------|-----------------|
-| **Phạm Đức Trường** | Team Leader | Backend & Database |
-| **Lê Trọng Khôi** | Member | Frontend & UI/UX |
-| **Nguyễn Thị Ngọc Nga** | Member | Documentation, Testing & System Analysis |
+| Name | Responsibilities |
+|------|-----------------|
+| **Phạm Đức Trường** | Backend & Database |
+| **Lê Trọng Khôi** | Frontend & UI/UX |
+| **Nguyễn Thị Ngọc Nga** | Documentation, Testing & System Analysis |
 
 > **Important Note:** This project was completely self-taught and developed without formal instruction from faculty. All technologies used in this project were learned independently by our team, as these specific technologies and frameworks are not part of our official college curriculum. We took the initiative to learn modern web development technologies on our own to create a professional-grade application for our graduation project. We recognize that our implementation is at a junior/basic level, and we are committed to continuous learning and improvement of our skills every day.
 
@@ -111,11 +111,11 @@ Website: https://rested.sytes.net
 **Khóa CD22CNTT1 (2022–2025, Chuyên Ngành: Công Nghệ Thông Tin)**  
 **Trường: Cao Đẳng Kỹ Thuật Công Nghệ Bà Rịa - Vũng Tàu (BCTECH)**
 
-| Tên | Vai trò | Trách nhiệm |
-|------|------|-----------------|
-| **Phạm Đức Trường** | Trưởng nhóm | Backend & Cơ sở dữ liệu |
-| **Lê Trọng Khôi** | Thành viên | Frontend & Giao diện người dùng |
-| **Nguyễn Thị Ngọc Nga** | Thành viên | Tài liệu, Kiểm thử & Phân tích hệ thống |
+| Tên | Trách nhiệm |
+|------|-----------------|
+| **Phạm Đức Trường** | Backend & Cơ sở dữ liệu |
+| **Lê Trọng Khôi** | Frontend & Giao diện người dùng |
+| **Nguyễn Thị Ngọc Nga** | Tài liệu, Kiểm thử & Phân tích hệ thống |
 
 > **Lưu ý quan trọng:** Dự án này được hoàn toàn tự học và phát triển mà không có sự hướng dẫn chính thức từ giáo viên. Tất cả công nghệ được sử dụng trong dự án này đều được nhóm chúng tôi tự học độc lập, vì các công nghệ và framework cụ thể này không nằm trong chương trình chính thức của trường. Chúng tôi đã chủ động học các công nghệ phát triển web hiện đại để tạo ra một ứng dụng chuyên nghiệp cho đồ án tốt nghiệp. Chúng tôi nhận thức rằng việc triển khai của chúng tôi đang ở mức độ junior/cơ bản, và chúng tôi cam kết sẽ học hỏi liên tục và cải thiện kỹ năng của mình mỗi ngày.
 
