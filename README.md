@@ -62,7 +62,7 @@ Website: https://rested.sytes.net
 
 ## 🔧 Sử Dụng
 
-- **Truy cập ứng dụng:** Mở trình duyệt web của bạn và điều hướng đến `http://localhost:3000`
+- **Truy cập ứng dụng:** Mở trình duyệt web của bạn và điều hướng đến `http://rested.sytes.net`
 - **Truy cập quản trị viên:** 
   - Tên đăng nhập: `admin`
   - Mật khẩu: `admin`
