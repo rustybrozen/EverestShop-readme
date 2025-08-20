@@ -10,13 +10,13 @@
 [![Tested with Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ---
-# 📱 EverestShop
+# EverestShop
 
 EverestShop là ứng dụng web thương mại điện tử cho điện thoại thông minh, được phát triển như dự án full-stack đầu tiên của chúng tôi. Dự án này thể hiện các công nghệ và phương pháp phát triển web hiện đại, tập trung vào việc mang lại trải nghiệm mua sắm trên máy tính / di động liền mạch.
 
 Website: https://rested.sytes.net
 
-## 👨‍💻 Đội Ngũ Phát Triển
+## Đội Ngũ Phát Triển
 
 **Khóa CD22CNTT1 (2022–2025, Chuyên Ngành: Công Nghệ Thông Tin)**  
 **Trường: Cao Đẳng Kỹ Thuật Công Nghệ Bà Rịa - Vũng Tàu (BCTECH)**
@@ -29,16 +29,16 @@ Website: https://rested.sytes.net
 
 > **Lưu ý quan trọng:** Dự án này được hoàn toàn tự học và phát triển mà không có sự hướng dẫn chính thức từ giáo viên. Tất cả công nghệ được sử dụng trong dự án này đều được nhóm chúng tôi tự học độc lập, vì các công nghệ và framework cụ thể này không nằm trong chương trình chính thức của trường. Chúng tôi đã chủ động học các công nghệ phát triển web hiện đại để tạo ra một ứng dụng chuyên nghiệp cho đồ án tốt nghiệp. Chúng tôi nhận thức rằng việc triển khai của chúng tôi đang ở mức độ junior/cơ bản, và chúng tôi cam kết sẽ học hỏi liên tục và cải thiện kỹ năng của mình mỗi ngày.
 
-## ✨ Tính Năng
+## Tính Năng
 
-- 📱 Duyệt và tìm kiếm sản phẩm điện thoại thông minh
-- 🔐 Xác thực người dùng và quản lý tài khoản
-- 🛒 Chức năng giỏ hàng
-- 💳 Quy trình thanh toán
-- 📦 Theo dõi đơn hàng
-- 📱 Thiết kế đáp ứng được tối ưu hóa cho tất cả thiết bị
+- Duyệt và tìm kiếm sản phẩm điện thoại thông minh
+- Xác thực người dùng và quản lý tài khoản
+- Chức năng giỏ hàng
+- Quy trình thanh toán
+- Theo dõi đơn hàng
+- Thiết kế đáp ứng được tối ưu hóa cho tất cả thiết bị
 
-## 🛠️ Công Nghệ Sử Dụng
+## 🛠Công Nghệ Sử Dụng
 
 - **Backend:**
   - [Node.js](https://nodejs.org/) 
@@ -60,14 +60,14 @@ Website: https://rested.sytes.net
 - **Kết Hợp Trợ Lý AI Để Tối Ưu Hiệu Suất Xây Dựng WebApp**
 
 
-## 🔧 Sử Dụng
+## Sử Dụng
 
 - **Truy cập ứng dụng:** Mở trình duyệt web của bạn và điều hướng đến `http://rested.sytes.net`
 - **Truy cập quản trị viên:** 
   - Tên đăng nhập: `admin`
   - Mật khẩu: `admin`
 
-## 📸 Một Số Ảnh
+## Một Số Ảnh
 
 ![image](https://github.com/user-attachments/assets/386b0e95-b12d-48ee-89c4-f203eb729d5b)
 
